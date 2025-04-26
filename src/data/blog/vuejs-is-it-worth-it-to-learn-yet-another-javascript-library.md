@@ -2,7 +2,14 @@
 title: "Vue.js .Is it worth it to learn yet another javascript library?"
 pubDatetime: 2017-08-29T00:00:00.000Z
 description: "This is a very highlevel take on Vue.js and the reason for its popularity ."
-slug: vuejs-is-it-worth-it-to-learn-yet-another-javascript-library # Explicitly add slug
+author: "Malik"
+tags:
+  - vuejs
+  - javascript
+slug: vuejs-is-it-worth-it-to-learn-yet-another-javascript-library
+featured: false
+draft: false
+modDatetime: null
 ---
 
 ## Vue.js .Is it worth it to learn yet another javascript library?
