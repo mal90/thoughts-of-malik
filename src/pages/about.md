@@ -34,3 +34,10 @@ Here are certain features of this site.
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
 Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+
+## Find me online
+
+*   [Github](https://github.com/mal90)
+*   [Stack Overflow](https://stackoverflow.com/users/1305026/malik)
+*   [LinkedIn](https://www.linkedin.com/in/maliksalim/)
+*   [Instagram](https://www.instagram.com/madkmalik/)
