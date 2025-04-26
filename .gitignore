@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Astro specific
+.astro/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific (optional, uncomment if needed)
+# .vscode/
+# .idea/ 
