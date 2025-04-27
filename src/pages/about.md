@@ -16,6 +16,4 @@ This blog is where I share reflections on that journey, thoughts on software dev
 *   [LinkedIn](https://www.linkedin.com/in/maliksalim/)
 *   [Instagram](https://www.instagram.com/madkmalik/)
 
----
-
-*Built with Astro using the [AstroPaper](https://github.com/satnaing/astro-paper) theme by Sat Naing as a foundation.*
+Built with Astro using the [AstroPaper](https://github.com/satnaing/astro-paper) theme by Sat Naing as a foundation.
