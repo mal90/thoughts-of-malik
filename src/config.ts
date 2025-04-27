@@ -3,7 +3,7 @@ export const SITE = {
   author: "Malik",
   profile: "https://satnaing.dev/", // You might want to update this later
   desc: "I use this space to share my thoughts, mostly about software development.",
-  title: "Malik's thoughts",
+  title: "Malik writes",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
