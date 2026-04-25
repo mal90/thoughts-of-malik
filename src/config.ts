@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://malik-writes.netlify.app/",
   author: "Malik",
-  profile: "https://satnaing.dev/", // You might want to update this later
+  profile: "https://github.com/mal90",
   desc: "I use this space to share my thoughts, mostly about software development.",
   title: "Malik writes",
   ogImage: "astropaper-og.jpg",
