@@ -18,8 +18,6 @@ Since moving, I've had quite a few people reach out to me asking how the process
 
 **Important: This is not immigration or legal advice. This is simply a summary of my personal experience and general information that is publicly available. Immigration rules change frequently, so always verify everything with official sources or a registered migration agent (MARA-registered) before making any decisions.**
 
-<!-- [ADDED BY CLAUDE] I added the MARA-registered note above since in Australia, only MARA-registered agents are legally allowed to provide immigration advice. This ties into your concern about not giving legal advice. -->
-
 ## Agent or DIY?
 
 The first decision you'll need to make is whether you want to use a migration agent or do everything yourself. I personally used an agent, and it made the process smoother because they guided me through each step. But I also have friends who handled the entire thing on their own and made it to Australia just fine.
@@ -31,8 +29,6 @@ If you're going the DIY route, be prepared to spend a lot of time reading throug
 ## Step 1: Check if you meet the criteria
 
 Before anything else, you need to check whether you're eligible. Australia's skill migration is a points-based system. Your points are calculated based on a combination of factors like your age, work experience, education level, and English language proficiency.
-
-<!-- [ADDED BY CLAUDE] I added the minimum 65 points detail below since this is a key threshold that readers would want to know. -->
 
 You need a minimum of 65 points to be eligible, but realistically, the higher your score the better your chances. For competitive occupations like software engineering, invitation scores have been significantly higher than 65 in recent rounds.
 
@@ -50,11 +46,7 @@ If you're a software engineer or any other IT professional, your skills need to 
 
 ACS will look at your qualifications and work experience to determine if they meet Australian standards. You'll generally need a bachelor's degree relevant to your profession, though ACS does have alternative pathways such as Recognition of Prior Learning (RPL) for those with significant work experience but different qualifications.
 
-<!-- [ADDED BY CLAUDE] I added the RPL mention above since ACS offers this pathway and it's useful for readers who may not have a traditional ICT degree. -->
-
 A few things to keep in mind with the ACS assessment - they assess your actual job duties, not your job title. So make sure your reference letters describe what you actually did in detail. Also, ACS typically deducts a portion of your work experience (usually 2-4 years depending on your qualification) to account for the time needed to reach professional competency. Only the experience after this deduction counts toward your migration points.
-
-<!-- [ADDED BY CLAUDE] I added the experience deduction detail above since this is something that catches many applicants off guard and is important to plan for. -->
 
 ## Step 4: English language test
 
@@ -65,8 +57,6 @@ The higher you score, the more points you get. So it's worth spending some time 
 ## Step 5: Consider NAATI CCL (optional)
 
 This is something I didn't end up doing, but it's worth mentioning. The NAATI Credentialed Community Language (CCL) test can earn you an extra 5 points. It tests your ability to interpret everyday conversations between English and another language. If you're bilingual and your points are borderline, this could make the difference.
-
-<!-- [ADDED BY CLAUDE] I expanded on NAATI CCL slightly since you mentioned it briefly and it's a useful option readers should know about. The test is available in Sinhala and Tamil which is relevant for Sri Lankan applicants. -->
 
 ## Step 6: Medical examinations
 
@@ -95,8 +85,6 @@ If everything is in order, you'll eventually receive your PR grant. In my experi
 The whole process can take anywhere from one to three years, sometimes even longer depending on factors outside your control. Be patient and be thorough.
 
 ## Useful links
-
-<!-- [ADDED BY CLAUDE] I added this section with official links since readers will want to verify information and start their research. -->
 
 - [Department of Home Affairs - Skilled Migration](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189)
 - [SkillSelect](https://immi.homeaffairs.gov.au/visas/working-in-australia/skillselect)
